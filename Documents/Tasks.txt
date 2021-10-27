@@ -1,0 +1,35 @@
+Taches :
+
+Préparation :
+
+Ecrire le cahier des charges fonctionnelle 
+Présentation
+Explication des fonctionnalités attentues
+User Stories
+DCU & WireFlow
+Calendrier Jalons
+Priorité, organisation, groupe
+
+
+Ecrire le cahier des charges techniques et méthodologiques
+Technologie utilisées
+Design diagramme de classe / diagramme d'objet
+Méthode de travail en groupe
+Diagramme de Gantt/Jalons
+Lien repos Git
+
+
+Apprendre le C#
+Apprendre Unity
+
+
+Site Internet : (must)
+Créer base de données (must)
+Téléchargement (mush)
+Compte (should)
+Encyclopédie (could)
+Patchs note (could)
+
+Jeu :
+Partie simple (must)
+
