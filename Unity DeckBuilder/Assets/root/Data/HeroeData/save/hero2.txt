@@ -1,0 +1,16 @@
+id="hero2"
+isUnlocked="True"
+points="0"
+xp="0"
+
+idSkill="egide_athena1"
+level="0"
+unlocked="False"
+
+idSkill="beaute_alterante1"
+level="0"
+unlocked="False"
+
+idSkill="colere_de_zeus1"
+level="0"
+unlocked="False"
