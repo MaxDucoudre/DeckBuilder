@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using System;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 
 public class HeroeMenu : MonoBehaviour
 {
@@ -483,7 +484,7 @@ public class HeroeMenu : MonoBehaviour
         this.leftMenu();
         Party party = new Party();
 
-       // SceneManager.LoadScene("Scene/MapScene");
+        SceneManager.LoadScene("Scene/MapScene");
     }
 
     public void backButton()
